@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="44" viewBox="0 0 350 44" role="img" aria-labelledby="title desc">
+  <title id="title">张岩的职业签名</title>
+  <desc id="desc">AI 产品经理 · 关注 Agent、AI 应用与产品研究</desc>
+  <style>
+    text { fill: #57606a; font: 14px ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    @media (prefers-color-scheme: dark) { text { fill: #8c959f; } }
+  </style>
+  <text x="175" y="16" text-anchor="middle">AI 产品经理</text>
+  <text x="175" y="36" text-anchor="middle">关注 Agent、AI 应用与产品研究</text>
+</svg>
+

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="64" viewBox="0 0 350 64" role="img" aria-labelledby="title desc">
+  <title id="title">张岩 — professional introduction</title>
+  <desc id="desc">AI Product Manager · Focused on Agents, AI Apps &amp; Product Research</desc>
+  <style>
+    text { fill: #57606a; font: 14px ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    @media (prefers-color-scheme: dark) { text { fill: #8c959f; } }
+  </style>
+  <text x="175" y="16" text-anchor="middle">AI Product Manager</text>
+  <text x="175" y="36" text-anchor="middle">Focused on Agents, AI Apps</text>
+  <text x="175" y="56" text-anchor="middle">&amp; Product Research</text>
+</svg>
+
