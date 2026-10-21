@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112" role="img" aria-labelledby="title desc">
+  <title id="title">Zhang Yan · AI Product Manager</title>
+  <desc id="desc">张岩，AI 产品经理。产品研究、工作流设计与产品开发。</desc>
+  <style>
+    .name,.cursor { fill:#159a75; }
+    .role { fill:#57606a; }
+    text { font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace; }
+    .cursor { animation:blink 1.2s step-end infinite; }
+    @keyframes blink { 0%,55% { opacity:1; } 56%,100% { opacity:0; } }
+    @media(prefers-color-scheme:dark) { .name,.cursor { fill:#20c997; } .role { fill:#8c959f; } }
+    @media(prefers-reduced-motion:reduce) { .cursor { animation:none;opacity:.6; } }
+  </style>
+  <text class="name" x="200" y="54" text-anchor="middle" font-size="36" font-weight="700">ZHANG YAN</text>
+  <rect class="cursor" x="304.2" y="26.64" width="3" height="31.32" rx="1" />
+  <text class="role" x="200" y="89" text-anchor="middle" font-size="15" letter-spacing="1.7">AI PRODUCT MANAGER</text>
+</svg>
