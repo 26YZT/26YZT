@@ -26,7 +26,7 @@ I'm Zhang Yan, an AI product manager focused on agents, AI applications and prod
 | :--- | :--- |
 | [**DrawForm**](https://github.com/26YZT/drawform)<br><sub>Prototype</sub> | STEP to editable drawings for simple single parts: geometry, dimension review and DXF / SVG / PDF / JSON output, plus constrained text and drawing input. |
 | [**YunXiaoJu**](https://github.com/26YZT/yunxiaoju)<br><sub>Building</sub> | A six-stage AI film workflow: scripts, characters/scenes, storyboards, reference images, video clips and final editing, with asset versions. |
-| [**Aimy**](https://github.com/26YZT/aimy)<br><sub>Preview</sub> | A macOS-first virtual companion built on Project AIRI, with text, voice, character interaction and screen viewing with user consent. |
+| [**Aimy**](https://github.com/26YZT/aimy)<br><sub>Preparing for private beta</sub> | A macOS-first virtual companion with text, voice, character interaction and screen viewing with user consent. |
 | [**Speed Workbench**](https://github.com/26YZT/speed-workbench)<br><sub>Public</sub> | A workspace for AI product planning, coding, human review and code iteration, with model comparison, draft recovery and budget checks. |
 
 <div align="center">

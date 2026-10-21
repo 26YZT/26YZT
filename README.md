@@ -26,7 +26,7 @@
 | :--- | :--- |
 | [**汽绘 DrawForm**](https://github.com/26YZT/drawform)<br><sub>工程原型</sub> | 从 STEP 到可编辑工程图：简单单零件、尺寸确认与 DXF / SVG / PDF / JSON 出图，支持受控文字与图纸建模。 |
 | [**云小剧**](https://github.com/26YZT/yunxiaoju)<br><sub>持续开发</sub> | 六阶段 AI 短片与短剧创作：从剧本、角色和分镜，到参考图、视频片段与后期合成，保留素材版本。 |
-| [**Aimy**](https://github.com/26YZT/aimy)<br><sub>开发体验</sub> | 基于 Project AIRI 的 macOS 桌面虚拟陪伴，围绕文字、语音、角色互动与授权看屏打磨交流体验。 |
+| [**Aimy**](https://github.com/26YZT/aimy)<br><sub>准备内测中</sub> | macOS 桌面虚拟情感陪伴，围绕文字、语音、角色互动与授权看屏打磨交流体验。 |
 | [**Speed Workbench**](https://github.com/26YZT/speed-workbench)<br><sub>源码公开</sub> | 需求规划、AI 编码、人工审核与代码迭代，内置模型对比、草稿恢复和预算校验。 |
 
 <div align="center">
