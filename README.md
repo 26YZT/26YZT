@@ -7,7 +7,7 @@
   <img src="assets/profile-header.svg" width="720" alt="张岩 · Zhang Yan · AI Product Manager" />
 </picture>
 
-<p>张岩 · 围绕工程、创作与日常陪伴，把产品想法一步步做出来。</p>
+<p>张岩 · 围绕工程、创作与产品落地，把想法快速做出来。</p>
 <sub>Product research × workflow design × hands-on building.</sub>
 
 <br/><br/>
